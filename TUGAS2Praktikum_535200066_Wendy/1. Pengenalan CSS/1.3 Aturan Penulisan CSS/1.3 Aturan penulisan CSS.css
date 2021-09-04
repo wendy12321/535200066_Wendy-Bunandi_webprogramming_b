@@ -1,0 +1,35 @@
+/* <!-- 
+
+    1.3	Aturan Penulisan CSS 
+
+    CSS memiliki aturan dalam penulisannya, yang terdiri atas Selector dan Declaration.
+    •	Selector : mengidikasikan elemen atau elemen - elemen yang akan di deklarasikan.
+    •	Declaration : untuk mendeskripsikan property dan nilai yang akan digunakan pada selector
+
+ -->    */       
+
+
+    p {
+         font-family: Arial; }   
+ 
+
+
+
+/* <!-- 
+
+
+        CSS Declaration yang berada didalam kurung kurawal terdiri dari 2 (dua) bagian property dan Value yang dipisahkan oleh tanda titik dua “ : ”. Kita dapat menentukan beberapa property dalam satu deklarasi, masing - masing dipisahkan dengan tanda titik koma “ ; “.
+
+
+-->   */           
+
+
+
+    h1, h2, h3 {
+                font-family: Arial; 
+                color: yellow；}  
+
+
+
+
+

@@ -1,0 +1,18 @@
+/* 1.6.1 Universal Selector */ 
+
+*{
+    /* font: 888; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* font-family: 'italic'; */
+    font-family: cursive;
+}
+
+
+/* 1.6.2 Tag/Element HTML */
+
+h1 {color: red;}
+
+
+
+/* yg lain gbs dicoba kecuali font-family: cursive; , makanya dijadiin komen */
+                                           
